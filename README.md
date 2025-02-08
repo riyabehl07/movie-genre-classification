@@ -76,12 +76,6 @@ Predictions are saved in:
 Genre Classification Dataset/predictions.txt
 ```
 
-### **3️⃣ Evaluate Accuracy**
-The accuracy is displayed in the terminal:
-```
-🎯 Model Accuracy: XX%
-```
-
 ## ⚙️ Features & Improvements
 ✅ **TF-IDF Vectorization**: Converts text data into numerical form.
 ✅ **Naïve Bayes / Logistic Regression Classifier**: Trained on movie descriptions.
